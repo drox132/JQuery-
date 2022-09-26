@@ -1,0 +1,33 @@
+paginas importantes de JQUERY
+
+pagina de JQUERY
+https://jquery.com/
+
+pagina de YUI
+https://clarle.github.io/yui3/
+
+pagina de dojo
+https://dojotoolkit.org/
+
+pagina de mootools
+https://mootools.net/
+
+pagina de underscode
+http://underscorejs.org/
+
+todos los selectores de JQUERY
+https://www.w3schools.com/jquery/jquery_ref_selectors.asp
+
+
+todos los eventos jquery
+https://api.jquery.com/category/events/
+
+mas sobre eventos
+https://api.jquery.com/event.data/
+
+peticiones ajax pagina de consulta
+https://www.flickr.com/services/feeds/docs/photos_public/
+
+pagina para hacer consultas ajax
+https://pipedream.com/apps/swapi
+
